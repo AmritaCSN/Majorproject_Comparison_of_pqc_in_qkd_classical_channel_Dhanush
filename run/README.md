@@ -36,7 +36,7 @@ python3 bb84_Kyber.py
 
 ## **Security Analysis**
 
-To Check the Security Analysis of the Algorithm `Kyber_Entropy_correlation.py` file
+To Check the Security Analysis of the Algorithm `bb84_Kyber_Entropy_correlation.py` file
 
 Following Security Analysis is mesured for the algorithm
 
@@ -45,7 +45,7 @@ Following Security Analysis is mesured for the algorithm
 3. Key Sensitivity Analysis
 
 ```python3 Kyber_Entropy_correlation.py
-python3 Kyber_Entropy_correlation.py
+python3 bb84_Kyber_Entropy_correlation.py
 python3 bb84_encrypt_security_key_analysis.py
 ```
 
