@@ -13,7 +13,7 @@ Check the code in run folder. To run the project step by step check README File 
 * python --version
 
 
-### 2. Dependencies required for NTRU 
+### 2. Dependencies required for Kyber 
 * Install Packages SymPy, NumPy and docopt
 * pip3 install --user sympy
 * pip3 install --user numpy
