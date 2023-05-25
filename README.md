@@ -4,6 +4,9 @@ Comparison of Post-Quantum Cryptography Algorithms for Authentication in Quantum
 ## Description
 QuNetSim is a simulator that performs common quantum networking tasks. The Authentication Scheme using Crystal-Kyber and Falcon are integrated into the QuNetSim for checking the compatibility of our algorithm. QuNetSim uses two communication parties Alice and Bob. 
 
+##How To Run
+Check the code in run folder. To run the project step by step check README File in run folder
+
 ## Execution Steps
 ### 1. Install Python 3.x on your system
 * sudo apt install python3.8
